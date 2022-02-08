@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicacion_Semana1</string>
+    <string name="nombre">Walter Alberto Martinez Medrano</string>
+    <string name="materia">Programacion Computacional II</string>
+    <string name="ciclo">Ciclo 1 - 2022</string>
+    <string name="universidad">Universidad Gerardo Barrios</string>
+    <string name="mundo">Hola Mundo!</string>
+
+</resources>
